@@ -1,0 +1,32 @@
+/*css Stylesheet*/
+body
+{
+	background-color: green;
+	color: white;
+}
+
+#menu	
+{
+	background-color: #AAA;
+	font-size: 20px;
+	font-family: fantasy;
+	text-align: center;
+	color: black;
+}
+
+a:hover
+{
+	font-weight: bold;
+	color: red;
+}
+
+
+.marker 
+{
+	background-color:green
+}
+
+#container1
+{
+background-color:blue
+}
